@@ -1,0 +1,262 @@
+; This is english translation for BirEdit.
+;
+; Get the support on http://biredit.fireforge.net/
+;
+; If you will found a mistakes in translation,
+; please, post the fixes on the official forum of the program.
+;
+;
+; You can make copy of this file and rename it to your language name.
+; After that you can translate all items in this file.
+;
+
+[Translator]
+Name=Alexey Tatuyko
+Mail=tatuich@gmail.com
+
+[TranslationInfo]
+Ver=2.0.0.23
+Name=English
+
+[Main]
+0=File
+1=Exit
+2=Open
+3=Save
+4=Save as...
+5=Print preview
+6=Print
+7=Edit
+8=Undo
+9=Redo
+10=Select all
+11=Copy
+12=Paste
+13=Cut
+14=TB
+15=Command...
+16=Copy add
+17=Dublicate selection
+18=Replace next
+19=Copy all
+20=Normal
+21=Clear clipboard
+22=Selection
+23=Color under cursor (RGB)
+24=Help
+25=About...
+26=Swap
+27=Clear all
+28=Clear
+29=Uppercase
+30=Convert
+31=Lowercase
+32=Title case
+33=Invert case
+34=Sentence case
+35=Insert
+36=Filename
+37=Cannot open file.
+38=Open with...
+39=Indent
+40=Unindent
+41=Block
+42=Enclose selection
+43=Line
+44=Time/Date
+45=Options
+46=Text not found.
+47=Revert
+48=New
+49=Column
+50=Search
+51=Find mathing brace
+52=Properties
+53=Font...
+54=Language
+55=Confirm replace
+56=New window
+57=Operations
+58=Empty window
+59=Execute document
+60=Internal
+61=Recent files
+62=Delete non-existent
+63=Clear list
+64=Filename and path
+65=Replace previous
+66=File has "read-only" attribute.\nSave changes to file?
+67=Find...
+68=Find next
+69=Replace this occurence of "%s"?
+70=Untitled
+71=GB
+72=MB
+73=KB
+74=Byte(s)
+75=Yes
+76=No
+77=Cancel
+78=Yes to all
+79=Find previous
+80=Replace...
+81=Go to...
+82=Current file has changed in other program.\nReopen the file?
+83=File is no more exists.\nSave the file?
+84=Encoding
+85=File has changed.\nSave the file?
+86=Settings
+87=Auto
+88=Syntax
+89=Default
+90=Quote selection
+91=Dequote selection
+92=Select to matching brace
+93=Read only
+94=read only
+95=Open in Explorer
+96=Page setup
+97=Printer setup
+98=Data
+99=Computer name
+100=User name
+101=Copy filepath
+102=Encoding identifier
+103=Associations
+104=Word wrap
+105=Open all
+106=Plugins
+
+[SearchDlg]
+1=Search text
+2=Replace Text
+11=OK
+12=Cancel
+101=Search for
+102=Replace with
+201=Case sensitivity
+202=Whole words only
+203=Search from caret
+204=Selected text only
+205=Regular expression
+401=Options
+1201=Direction
+1201:0=Forward
+1201:1=Backward
+
+[EnclSelDlg]
+1=Enclose Selection
+11=OK
+101=Insert before selection
+102=Insert after selection
+
+[GoToDlg]
+1=Go to...
+11=OK
+101=Line
+102=Column
+
+[DropDlg]
+1=Dropped files
+11=Open checked
+2001=Check all
+2002=Uncheck all
+2003=Invert
+
+[SettingsDlg]
+1=Settings
+11=Apply
+12=Cancel
+101=Recent files capacity
+103=Maximum scroll width
+104=Undo limit
+105=Right edge
+106=Tab width
+107=Extra line spacing
+108=Insert caret
+109=Overwrite caret
+110=Scroll hint format
+111=Selection mode
+112=Digit count
+113=Line number start
+114=Gradient steps
+115=[*] Not recommended. Incompatible with non-latin symbols.
+201=Minimize to tray
+202=Show status bar
+203=Show gutter
+204=Scan dropped folders
+205=Scan subfolders in dropped folders
+206=Use syntax highlighting [*]
+207=Read only
+208=Word wrap
+209=Paste text after caret
+210=Autosize
+211=Leading zeros
+212=Show line numbers
+213=Use font style
+214=Zero start
+215=Use gradient
+216=Use colors
+217=Syntax print
+218=Line numbers
+301=Application
+302=Editor
+303=Other
+304=Options
+305=Advanced
+401=Gutter
+402=Print
+1001:0=Vertical Line
+1001:1=Horizontal Line
+1001:2=Half of Block
+1001:3=Block
+1002:0=Top Line Only
+1002:1=Top to Bottom
+1003:0=Normal
+1003:1=Line
+1003:2=Column
+1101:0=Alt sets column mode
+1101:1=Auto indent
+1101:2=Auto size maximum scroll width
+1101:3=Disable scroll arrows
+1101:4=Drag drop editing
+1101:5=Drop files
+1101:6=Enhance Home key
+1101:7=Enhance End key
+1101:8=Group undo
+1101:9=Half page scroll
+1101:10=Hide/show scrollbars
+1101:11=Keep caret X
+1101:12=No caret
+1101:13=No selection
+1101:14=Right mouse moves cursor
+1101:15=Scroll by one less
+1101:16=Scroll hint follows cursor
+1101:17=Scroll past end of file
+1101:18=Scroll past end of line
+1101:19=Show scroll hint
+1101:20=Show special chars
+1101:21=Smart tab delete
+1101:22=Smart tabs
+1101:23=Special line default foreground
+1101:24=Tab indent
+1101:25=Tabs to spaces
+1101:26=Trim trailing spaces
+
+[PrintPreviewDlg]
+1=Print preview
+3001=First|Go to first page
+3002=Previous|Go to previous page
+3003=Next|Go to next page
+3004=Last|Go to last page
+3005=Zoom|Zoom In/Out
+3006=Print (%s)|Print the document on %s
+3007=Close|Close Print Preview
+
+[FAssocDlg]
+1=File associations
+11=Apply
+12=Cancel
+2001=Check all
+2002=Uncheck all
+2003=Invert
