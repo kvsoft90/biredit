@@ -2,8 +2,9 @@
 =Основная страница Wiki=
 
 *Загрузить BirEdit*
-  * [http://code.google.com/p/biredit/downloads/list?can=2&q=label%3AFeatured Релизы]
-  * [http://code.google.com/p/biredit/downloads/list?can=2&q=label%3ANightlyBuild Ночные сборки]
+  * [http://code.google.com/p/biredit/downloads/list?q=label:Featured Релизы]
+  * [http://code.google.com/p/biredit/downloads/list?q=label:NightlyBuild Ночные сборки]
+  * [hhttp://code.google.com/p/biredit/downloads/list?q=label:Plugins Плагины]
   * [http://code.google.com/p/biredit/downloads/list Полный список файлов]
 
 *Исходные коды BirEdit*
