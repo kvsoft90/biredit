@@ -1,0 +1,1 @@
+rmdir __history /S /Q

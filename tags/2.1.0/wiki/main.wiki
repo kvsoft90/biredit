@@ -1,0 +1,13 @@
+#labels Featured
+=Основная страница Wiki=
+
+*Загрузить BirEdit*
+  * [http://code.google.com/p/biredit/downloads/list?q=label:Featured Релизы]
+  * [http://code.google.com/p/biredit/downloads/list?q=label:NightlyBuild Ночные сборки]
+  * [http://code.google.com/p/biredit/downloads/list Полный список файлов]
+
+*Исходные коды BirEdit*
+  * [http://code.google.com/p/biredit/source/browse/ Обзор репозитория]
+  * [http://code.google.com/p/biredit/source/list Лог ревизий]
+
+[http://code.google.com/p/biredit/issues/list Багтрекер]
